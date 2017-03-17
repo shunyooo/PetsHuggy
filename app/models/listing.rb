@@ -1,5 +1,7 @@
 class Listing < ApplicationRecord
   belongs_to :user
+
+  #リスティングは多数の写真を持つことができる。
   has_many :photos
 
   #必須項目
