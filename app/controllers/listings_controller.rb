@@ -2,7 +2,7 @@ class ListingsController < ApplicationController
   before_action :authenticate_user!
 
   #onlyで指定したアクションの前に実行。
-  before_action :set_listing, only: [:basics, :description, :address, :price, :photos, :calendar, :bankaccount, :publish]
+  before_action :set_listing, only: [:update, :basics, :description, :address, :price, :photos, :calendar, :bankaccount, :publish]
 
   def index
   end
@@ -32,6 +32,9 @@ class ListingsController < ApplicationController
   end
 
   def update
+    if @listing.update(listing_params)
+      redirect_to :back, notice:"更新できました"
+    end
   end
 
 
@@ -63,10 +66,10 @@ class ListingsController < ApplicationController
 
   private
   def listing_params
-    params.require(:listing).permit(:home_type, :pet_type, :breeding_years, :pet_size)
+    params.require(:listing).permit(:home_type, :pet_type, :breeding_years, :pet_size, :price_pernight)
   end
 
-  # http://localhost:3000/manage-listing/2/basics の「2」にあたる部分
+  # http://localhost:3000/manage-listing/2 の「2」にあたる部分
   def set_listing
     @listing = Listing.find(params[:id])
   end
