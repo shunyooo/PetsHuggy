@@ -1,0 +1,10 @@
+<!-- deviseにエラーがある場合 -->
+<% unless resource.errors.empty? %>
+	<script type="text/javascript">
+		// 全てのメッセージに対して、
+		<% resource.errors.full_messages.each do |msg| %>
+			//エラーを表示
+			toastr.error('<%= msg %>');
+		<% end %>
+	</script>
+<% end %>

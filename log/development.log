@@ -1,0 +1,2647 @@
+Started GET "/" for ::1 at 2017-03-16 19:18:56 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (5.4ms)
+Completed 200 OK in 33ms (Views: 15.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 19:21:49 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (5.2ms)
+Completed 200 OK in 25ms (Views: 13.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 19:21:52 +0900
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/railties-5.0.2/lib/rails/templates/rails/welcome/index.html.erb (4.5ms)
+Completed 200 OK in 12ms (Views: 8.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:22:04 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 947ms (Views: 943.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:33:34 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 7435ms (Views: 7422.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:36:00 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 154ms (Views: 147.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:38:43 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 87ms (Views: 83.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:39:13 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 53ms (Views: 49.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 19:59:28 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2649ms (Views: 2645.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:03:01 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 76ms (Views: 73.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:04:03 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 142ms (Views: 136.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:04:15 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 175ms (Views: 168.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:04:23 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 85ms (Views: 82.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:07:26 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 59ms (Views: 57.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:09:04 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 2434ms (Views: 2430.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/pages/index" for ::1 at 2017-03-16 20:16:54 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/pages/index"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [1 times] (10.9ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (41.2ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (19.0ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (239.4ms)
+Started GET "/" for ::1 at 2017-03-16 20:17:00 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 893ms (Views: 888.4ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (3.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (1.8ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to DeviseCreateUsers (20170316111920)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.5ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[35m (0.3ms)[0m  [1m[34mselect sqlite_version(*)[0m
+  [1m[35m (0.2ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170316111920"]]
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", 2017-03-16 11:20:31 UTC], ["updated_at", 2017-03-16 11:20:31 UTC]]
+  [1m[35m (0.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:24:02 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (161.1ms)
+Completed 200 OK in 626ms (Views: 588.7ms | ActiveRecord: 0.7ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2017-03-16 20:24:13 +0900
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"e/7TMSvef13cNl7x+fKYyMco04JlFsEl5TqTWh82Qftm4MPuAyfKX4MhVXk65TzwqazZEK3/TGLNCUVfODBBuA==", "user"=>{"email"=>"doudemo11mail@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "doudemo11mail@yahoo.co.jp"], ["LIMIT", 1]]
+Completed 401 Unauthorized in 11ms (ActiveRecord: 0.3ms)
+
+
+Processing by Devise::SessionsController#new as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"e/7TMSvef13cNl7x+fKYyMco04JlFsEl5TqTWh82Qftm4MPuAyfKX4MhVXk65TzwqazZEK3/TGLNCUVfODBBuA==", "user"=>{"email"=>"doudemo11mail@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.5ms)
+Completed 200 OK in 227ms (Views: 69.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:24:17 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.9ms)
+Completed 200 OK in 197ms (Views: 195.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:24:19 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (7.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (73.9ms)
+Completed 200 OK in 373ms (Views: 370.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/password/new" for ::1 at 2017-03-16 20:24:21 +0900
+Processing by Devise::PasswordsController#new as HTML
+  Rendering devise/passwords/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/passwords/new.html.erb within layouts/application (10.3ms)
+Completed 200 OK in 195ms (Views: 190.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:24:22 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (4.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (32.7ms)
+Completed 200 OK in 377ms (Views: 375.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:26:21 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 85ms (Views: 84.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 20:26:31 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 108ms (Views: 104.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:26:35 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.2ms)
+Completed 200 OK in 162ms (Views: 160.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 20:28:54 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.4ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 514ms (Views: 484.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:28:57 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (56.8ms)
+Completed 200 OK in 215ms (Views: 176.7ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:29:00 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 162ms (Views: 159.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 20:31:44 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered pages/index.html.erb within layouts/application (0.8ms)
+Completed 200 OK in 2680ms (Views: 2677.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:31:48 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (2.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 171ms (Views: 169.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:34:02 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.2ms)
+Completed 200 OK in 3245ms (Views: 3243.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:36:45 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (5.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (19.5ms)
+Completed 200 OK in 163ms (Views: 160.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:38:19 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.1ms)
+Completed 200 OK in 109ms (Views: 107.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:40:51 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (8.7ms)
+Completed 200 OK in 147ms (Views: 145.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:44:39 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 123ms (Views: 120.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:46:37 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (4.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 199ms (Views: 195.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:47:05 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (32.2ms)
+Completed 200 OK in 266ms (Views: 263.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:47:35 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (7.2ms)
+Completed 200 OK in 105ms (Views: 104.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2017-03-16 20:47:39 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"5YZTswLZl+cGhfDST0jFOYh6YeiXhsxQ4UCDCXqU50v4mENsKiAi5VmS+1qMX2EB5v5rel9vQRfJc1UMXZLnCA==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (9.9ms)
+Completed 200 OK in 118ms (Views: 94.5ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:49:08 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 87ms (Views: 85.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:53:56 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 131ms (Views: 128.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:53:59 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (27.3ms)
+Completed 200 OK in 315ms (Views: 312.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:54:01 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (3.2ms)
+  Rendered devise/shared/_links.html.erb (2.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (79.7ms)
+Completed 200 OK in 226ms (Views: 224.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:54:02 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.7ms)
+  Rendered devise/shared/_links.html.erb (4.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (26.0ms)
+Completed 200 OK in 337ms (Views: 334.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:58:09 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.0ms)
+Completed 200 OK in 139ms (Views: 137.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:58:18 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (3.1ms)
+  Rendered devise/shared/_links.html.erb (6.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (35.2ms)
+Completed 200 OK in 220ms (Views: 218.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:58:19 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.2ms)
+  Rendered devise/shared/_links.html.erb (24.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (69.7ms)
+Completed 200 OK in 310ms (Views: 307.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:58:21 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (24.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (36.9ms)
+Completed 200 OK in 401ms (Views: 399.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:58:33 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.7ms)
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (93.1ms)
+Completed 200 OK in 349ms (Views: 346.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:58:34 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (57.8ms)
+  Rendered devise/shared/_links.html.erb (5.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (82.1ms)
+Completed 200 OK in 311ms (Views: 309.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 20:58:35 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (4.2ms)
+  Rendered devise/shared/_links.html.erb (4.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (91.0ms)
+Completed 200 OK in 276ms (Views: 273.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 20:58:36 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (12.2ms)
+Completed 200 OK in 357ms (Views: 354.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:01:43 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered devise/registrations/new.html.erb within layouts/application (1.5ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/devise/registrations/new.html.erb:31: syntax error, unexpected keyword_class, expecting ')'
+...pend=( f.submit "Sign up" class:"btn btn-primary");@output_b...
+...                               ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/devise/registrations/new.html.erb:31: syntax error, unexpected ')', expecting &. or :: or '[' or '.'
+...gn up" class:"btn btn-primary");@output_buffer.safe_append='
+...                               ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/devise/registrations/new.html.erb:33: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;   end 
+               ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/devise/registrations/new.html.erb:43: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/devise/registrations/new.html.erb:45: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/devise/registrations/new.html.erb:31: syntax error, unexpected keyword_class, expecting ')'
+app/views/devise/registrations/new.html.erb:31: syntax error, unexpected ')', expecting &. or :: or '[' or '.'
+app/views/devise/registrations/new.html.erb:33: syntax error, unexpected keyword_end, expecting ')'
+app/views/devise/registrations/new.html.erb:43: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/devise/registrations/new.html.erb:45: syntax error, unexpected keyword_end, expecting ')'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.4ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.8ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (98.1ms)
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:02:40 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.1ms)
+Completed 200 OK in 105ms (Views: 103.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:02:45 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (2.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (43.0ms)
+Completed 200 OK in 216ms (Views: 213.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:03:16 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (12.1ms)
+Completed 200 OK in 119ms (Views: 117.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:03:40 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.9ms)
+  Rendered devise/shared/_links.html.erb (5.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (98.2ms)
+Completed 200 OK in 253ms (Views: 250.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:06:07 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (15.4ms)
+Completed 200 OK in 121ms (Views: 119.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:06:11 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.1ms)
+Completed 200 OK in 110ms (Views: 109.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:06:45 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 93ms (Views: 92.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:11:57 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.8ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (27.9ms)
+Completed 200 OK in 221ms (Views: 219.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:12:00 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (2.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (15.9ms)
+Completed 200 OK in 108ms (Views: 106.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:13:23 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (10.5ms)
+Completed 200 OK in 102ms (Views: 100.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:13:41 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.7ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (9.2ms)
+Completed 200 OK in 94ms (Views: 92.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:14:03 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.5ms)
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (17.6ms)
+Completed 200 OK in 137ms (Views: 134.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/" for ::1 at 2017-03-16 21:14:14 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (2.6ms)
+  Rendered collection of /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [16 times] (6.8ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (4.2ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (2.0ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (170.2ms)
+Started GET "/" for ::1 at 2017-03-16 21:14:20 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (3.9ms)
+Completed 200 OK in 94ms (Views: 90.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:17:45 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.7ms)
+  Rendered pages/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 115ms (Views: 111.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:18:50 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (5.7ms)
+Completed 200 OK in 124ms (Views: 118.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:39 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered pages/index.html.erb within layouts/application (3.4ms)
+Completed 200 OK in 118ms (Views: 114.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:40 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.5ms)
+  Rendered pages/index.html.erb within layouts/application (2.9ms)
+Completed 200 OK in 79ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:42 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (4.2ms)
+  Rendered pages/index.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 134ms (Views: 127.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:43 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered pages/index.html.erb within layouts/application (4.9ms)
+Completed 200 OK in 134ms (Views: 130.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:19:46 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.2ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (25.4ms)
+Completed 200 OK in 151ms (Views: 149.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:47 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered pages/index.html.erb within layouts/application (7.4ms)
+Completed 200 OK in 192ms (Views: 185.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:19:48 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (20.0ms)
+Completed 200 OK in 159ms (Views: 157.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:19:49 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered pages/index.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 149ms (Views: 146.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:20:17 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.6ms)
+  Rendered devise/shared/_links.html.erb (14.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (36.1ms)
+Completed 200 OK in 257ms (Views: 254.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:21:25 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.8ms)
+Completed 200 OK in 88ms (Views: 86.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:21:27 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.7ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.0ms)
+Completed 200 OK in 97ms (Views: 96.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:25:26 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.3ms)
+Completed 200 OK in 2737ms (Views: 2734.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:26:25 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.7ms)
+Completed 200 OK in 94ms (Views: 92.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:26:46 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.8ms)
+Completed 200 OK in 131ms (Views: 128.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:29:23 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 2372ms (Views: 2370.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:29:39 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (9.1ms)
+Completed 200 OK in 79ms (Views: 77.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:00 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 220ms (Views: 217.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:03 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.1ms)
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (33.8ms)
+Completed 200 OK in 173ms (Views: 168.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:30:04 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (18.2ms)
+Completed 200 OK in 148ms (Views: 147.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:05 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (103.5ms)
+Completed 200 OK in 345ms (Views: 343.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:30:05 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.5ms)
+Completed 200 OK in 274ms (Views: 271.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:07 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.1ms)
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (22.5ms)
+Completed 200 OK in 283ms (Views: 281.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:30:32 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.5ms)
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (47.2ms)
+Completed 200 OK in 269ms (Views: 266.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:34 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (88.4ms)
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:30:34 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (62.6ms)
+Completed 200 OK in 518ms (Views: 515.7ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 292ms (Views: 290.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:30:35 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (2.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (15.9ms)
+Completed 200 OK in 212ms (Views: 210.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:31:45 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 2165ms (Views: 2163.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:31:52 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.5ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (29.0ms)
+Completed 200 OK in 148ms (Views: 146.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:31:55 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (68.5ms)
+Completed 200 OK in 272ms (Views: 269.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 21:31:55 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (39.5ms)
+Completed 200 OK in 236ms (Views: 233.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2017-03-16 21:32:18 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"8pdAeqMsCNSLg/eLO21EZ/2AVjJHUhj7qmFUyalJN/BM3iVdFDW+UCOlkAt7TmFn2e2Sx6JVTVvJFsYqLf46vw==", "user"=>{"email"=>"syunyo1028@yahoo.co.jp", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35mSQL (2.2ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["email", "syunyo1028@yahoo.co.jp"], ["encrypted_password", "$2a$11$qvx1gaQSWqL8VLaY1LVbZOrFn98LkQhq90pWznIU5QlBbS5jfXSv."], ["created_at", 2017-03-16 12:32:19 UTC], ["updated_at", 2017-03-16 12:32:19 UTC]]
+  [1m[35m (1.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = ?, "current_sign_in_at" = ?, "last_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_ip" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["sign_in_count", 1], ["current_sign_in_at", 2017-03-16 12:32:19 UTC], ["last_sign_in_at", 2017-03-16 12:32:19 UTC], ["current_sign_in_ip", "::1"], ["last_sign_in_ip", "::1"], ["updated_at", 2017-03-16 12:32:19 UTC], ["id", 1]]
+  [1m[35m (0.8ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 268ms (ActiveRecord: 5.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:32:19 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.5ms)
+  Rendered pages/index.html.erb within layouts/application (3.8ms)
+Completed 200 OK in 73ms (Views: 69.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:32:31 +0900
+Processing by Devise::SessionsController#new as HTML
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+Redirected to http://localhost:3000/
+Filter chain halted as :require_no_authentication rendered or redirected
+Completed 302 Found in 7ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:32:31 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.2ms)
+  Rendered pages/index.html.erb within layouts/application (22.0ms)
+Completed 200 OK in 116ms (Views: 107.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:38:10 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.0ms)
+  Rendered pages/index.html.erb within layouts/application (17.0ms)
+Completed 200 OK in 860ms (Views: 835.7ms | ActiveRecord: 0.0ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-16 21:38:16 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"CrtQcdBXDI/MQsY0JFscR79SfABs2wtEyqcn7YecbDAXpUCu+K65jZNVzbznTLh/0dZ2kqQyhgPilPHooJpscw=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 44ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:38:16 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.1ms)
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 108ms (Views: 105.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 21:38:18 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (2.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (65.0ms)
+Completed 200 OK in 193ms (Views: 178.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2017-03-16 21:38:35 +0900
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"nTWhyHYMucJGYgZolg9ptaLuz/UmtjOxDo1m+wIKxREXEgoBFKxsAzVMVGkMTL5ff6AGEEqFSPKKZBcnkFT5UQ==", "user"=>{"email"=>"syunyo1028@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"1"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "remember_created_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_created_at", 2017-03-16 12:38:35 UTC], ["updated_at", 2017-03-16 12:38:35 UTC], ["id", 1]]
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = ?, "current_sign_in_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["sign_in_count", 2], ["current_sign_in_at", 2017-03-16 12:38:35 UTC], ["updated_at", 2017-03-16 12:38:35 UTC], ["id", 1]]
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 207ms (ActiveRecord: 2.8ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 21:38:35 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.9ms)
+  Rendered pages/index.html.erb within layouts/application (6.3ms)
+Completed 200 OK in 187ms (Views: 181.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:41:48 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (33.2ms)
+  Rendered pages/index.html.erb within layouts/application (56.4ms)
+Completed 500 Internal Server Error in 105ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:31: syntax error, unexpected keyword_ensure, expecting keyword_end
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:33: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/views/partial/_navbar.html.erb:31: syntax error, unexpected keyword_ensure, expecting keyword_end
+app/views/partial/_navbar.html.erb:33: syntax error, unexpected end-of-input, expecting keyword_end
+app/views/pages/index.html.erb:9:in `_app_views_pages_index_html_erb___2127577879594228909_70280677263400'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (5.0ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.7ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.8ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (99.9ms)
+Started GET "/" for ::1 at 2017-03-16 22:43:23 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (3.6ms)
+  Rendered pages/index.html.erb within layouts/application (6.6ms)
+Completed 200 OK in 110ms (Views: 104.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:46:39 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.7ms)
+  Rendered pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 109ms (Views: 103.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:47:28 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.2ms)
+  Rendered pages/index.html.erb within layouts/application (5.1ms)
+Completed 200 OK in 135ms (Views: 129.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:48:42 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (1.9ms)
+  Rendered pages/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 2212ms (Views: 2208.7ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-16 22:49:00 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"T5kBeW8V8k3iwGBwl/1AHywFA9oj4qQmZFdm2f0nJF4RbipSF4tALk9WLSLuBEna9oumrKW8mIhITNLSUpSsxQ=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "remember_created_at" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["remember_created_at", nil], ["updated_at", 2017-03-16 13:49:00 UTC], ["id", 1]]
+  [1m[35m (1.2ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 11ms (ActiveRecord: 2.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:49:00 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.0ms)
+  Rendered pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 137ms (Views: 133.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:58:17 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.8ms)
+  Rendered pages/index.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 3566ms (Views: 3552.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 22:58:23 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (67.2ms)
+Completed 200 OK in 210ms (Views: 153.9ms | ActiveRecord: 2.0ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2017-03-16 22:58:25 +0900
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"0rOZE2V+B8kor5A8jdO1yY6cGHeIUcAmWRe5aCE7uvs5yJyQpAQW22EfH7zWPo7Q1idzMV5G2JBQJL5ck4wIuw==", "user"=>{"email"=>"syunyo1028@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.5ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = ?, "last_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["current_sign_in_at", 2017-03-16 13:58:26 UTC], ["last_sign_in_at", 2017-03-16 12:38:35 UTC], ["sign_in_count", 3], ["updated_at", 2017-03-16 13:58:26 UTC], ["id", 1]]
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 364ms (ActiveRecord: 3.8ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 22:58:26 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.3ms)
+  Rendered pages/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 121ms (Views: 116.8ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:11:02 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.1ms)
+  Rendered pages/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 81ms (Views: 78.2ms | ActiveRecord: 0.2ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-16 23:11:06 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"y5fUUbpscDWD4PAU7zdtK5dP6XQw/rsrz+kyQlZqC+KMGtaiG4edOf9ejX1kbm+g/FY7kCAXQqhLJomBvz4TNA=="}
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 13ms (ActiveRecord: 1.1ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:11:06 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered pages/index.html.erb within layouts/application (3.7ms)
+Completed 200 OK in 101ms (Views: 97.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-16 23:14:02 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.4ms)
+  Rendered devise/shared/_links.html.erb (3.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (64.7ms)
+Completed 200 OK in 225ms (Views: 217.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2017-03-16 23:14:03 +0900
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"E5NcGQ0vNF5HI/bWY2PM6cKy5jfBVhTwDNd95B49kwTljmaeMMNYiUsOnTqvBCMDWjN5bNrTrmr0yD+0ygFzJA==", "user"=>{"email"=>"syunyo1028@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.3ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.6ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = ?, "last_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["current_sign_in_at", 2017-03-16 14:14:04 UTC], ["last_sign_in_at", 2017-03-16 13:58:26 UTC], ["sign_in_count", 4], ["updated_at", 2017-03-16 14:14:04 UTC], ["id", 1]]
+  [1m[35m (2.7ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 279ms (ActiveRecord: 3.9ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:14:04 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.4ms)
+  Rendered pages/index.html.erb within layouts/application (5.4ms)
+Completed 200 OK in 120ms (Views: 116.0ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:16:22 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (15.8ms)
+  Rendered pages/index.html.erb within layouts/application (19.9ms)
+Completed 200 OK in 2731ms (Views: 2713.0ms | ActiveRecord: 0.8ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-16 23:16:29 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"MryLMhAdCAzUKnmVVum3vFU01g+mJHWBg3vDBovS6loshhZoypY9M3XoFONMqWZr4pumWyiQvuMZ6ODV8grGjg=="}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 29ms (ActiveRecord: 0.3ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:16:29 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (8.2ms)
+  Rendered pages/index.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 90ms (Views: 87.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-16 23:23:19 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered pages/index.html.erb within layouts/application (5.3ms)
+Completed 200 OK in 109ms (Views: 105.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-16 23:23:26 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (57.8ms)
+Completed 200 OK in 235ms (Views: 227.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2017-03-16 23:23:27 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"CfK+EYfuJKPw2iLaTPAb5ZC4XMHOa0eeJ/OAbNQB/d5KNzbiVB3nsBzndCfUbdsmPKLKYk3cviB8Ydyn/kEoEg==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.8ms)
+  Rendered devise/shared/_links.html.erb (3.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (42.4ms)
+Completed 200 OK in 318ms (Views: 277.0ms | ActiveRecord: 0.2ms)
+
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddOmniauthToUsers (20170316172722)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "users" ADD "provider" varchar[0m
+  [1m[35m (0.1ms)[0m  [1m[35mALTER TABLE "users" ADD "uid" varchar[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170316172722"]]
+  [1m[35m (0.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.3ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Migrating to AddOmniauthElseToUsers (20170316173450)
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.6ms)[0m  [1m[35mALTER TABLE "users" ADD "image" varchar[0m
+  [1m[35m (0.2ms)[0m  [1m[35mALTER TABLE "users" ADD "name" varchar[0m
+  [1m[35mSQL (0.1ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20170316173450"]]
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_reset_password_token' AND type='index'
+[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+Started GET "/users" for ::1 at 2017-03-17 02:45:29 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.6ms)
+  Rendered collection of /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [18 times] (16.1ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (23.5ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (18.8ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (234.1ms)
+Started GET "/" for ::1 at 2017-03-17 02:45:36 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (4.7ms)
+  Rendered pages/index.html.erb within layouts/application (8.7ms)
+Started GET "/" for ::1 at 2017-03-17 02:45:36 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (4.3ms)
+  Rendered pages/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 1072ms (Views: 1067.8ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 738ms (Views: 734.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 02:45:40 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.4ms)
+  Rendered devise/shared/_links.html.erb (2.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (68.8ms)
+Completed 200 OK in 190ms (Views: 158.5ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:45:42 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:45:42 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:47:04 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:47:05 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:48:00 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:48:00 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:49:28 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/users/auth/facebook/callback?code=AQDI915c66-OPluD8DhQ-HQVr0UvkHcPHmUwXkD0aG2TM06KmXGSjszMStjnWA4FBZWCMU5X3Es8XH-xWu4j05_k05bc6qQQdtfIj2sscCxetyHQGju7XzatS1CGlHXZh8r1MtFP3QAzyTd46YJX7iFiAzCBxE6HYc8Coj-WZjiSjOVZhQ30kp3-JJuElwKvYqUMov9nKybNTH-znSzt9CYHOgRNhL85d0RQdNqME2qpDG5nRq1S9nnF57xAvFX3MBerP0M6FH_LX2ixHcClf9V-rhMRmZk-NA3n2sGM2xJYxOgqz7hfUWqy0FfKWgdblo9kyQL0yO-7VOoO8ptTnLMVxF3Jl0lM1d5dp6bZjI_S5q4srTY-67uwQXNR_kovmww&state=7a8b7b211d0e1641a09feb509415f76334e91784f1cc4c21" for ::1 at 2017-03-17 02:49:36 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQDI915c66-OPluD8DhQ-HQVr0UvkHcPHmUwXkD0aG2TM06KmXGSjszMStjnWA4FBZWCMU5X3Es8XH-xWu4j05_k05bc6qQQdtfIj2sscCxetyHQGju7XzatS1CGlHXZh8r1MtFP3QAzyTd46YJX7iFiAzCBxE6HYc8Coj-WZjiSjOVZhQ30kp3-JJuElwKvYqUMov9nKybNTH-znSzt9CYHOgRNhL85d0RQdNqME2qpDG5nRq1S9nnF57xAvFX3MBerP0M6FH_LX2ixHcClf9V-rhMRmZk-NA3n2sGM2xJYxOgqz7hfUWqy0FfKWgdblo9kyQL0yO-7VOoO8ptTnLMVxF3Jl0lM1d5dp6bZjI_S5q4srTY-67uwQXNR_kovmww", "state"=>"7a8b7b211d0e1641a09feb509415f76334e91784f1cc4c21"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 231ms (ActiveRecord: 1.6ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:49:38 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (1.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (45.4ms)
+Completed 200 OK in 513ms (Views: 506.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:49:43 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:49:43 +0900
+Started GET "/users/auth/facebook/callback?code=AQBHVwVz3LubCI8_M4n56vWn0XMLeoKTnjhJ4dg4FsjJRnMlKOqtS2mBGo-YAVNC6VGYYbeFcWM2-EhmqzHXlRRMd28Gxqy4YQRPqpYuftL687trhoUNPqLfeHYceddY_Mqr5GO8YteX-IcDWXfr1B24ZlYJolaOyrRX305goAxcD09n-l8uUi95QZF8sq2JyjBVCxgAurL-ps9u-7oPui4TRQMl6S5I9CCbdjaQ9pc8LW00pe6YN4onxpGwUgP8djBwpenLMjXWRqpKtrJImJ_oDgRvlFNQFOYJHT4FgaIWQGBTpUAzdghaM_3diFP9ijpP3UXtKZNfmZ6xRrNWY3VtKy5cQDALN5RNGVp6bFTrk9rMYaO6CdxSHj2loNWTT98&state=9ba661c77c81f291bbbd7a163cc88074160bf015b43f06ee" for ::1 at 2017-03-17 02:49:44 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQBHVwVz3LubCI8_M4n56vWn0XMLeoKTnjhJ4dg4FsjJRnMlKOqtS2mBGo-YAVNC6VGYYbeFcWM2-EhmqzHXlRRMd28Gxqy4YQRPqpYuftL687trhoUNPqLfeHYceddY_Mqr5GO8YteX-IcDWXfr1B24ZlYJolaOyrRX305goAxcD09n-l8uUi95QZF8sq2JyjBVCxgAurL-ps9u-7oPui4TRQMl6S5I9CCbdjaQ9pc8LW00pe6YN4onxpGwUgP8djBwpenLMjXWRqpKtrJImJ_oDgRvlFNQFOYJHT4FgaIWQGBTpUAzdghaM_3diFP9ijpP3UXtKZNfmZ6xRrNWY3VtKy5cQDALN5RNGVp6bFTrk9rMYaO6CdxSHj2loNWTT98", "state"=>"9ba661c77c81f291bbbd7a163cc88074160bf015b43f06ee"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 147ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:49:44 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (0.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.0ms)
+Completed 200 OK in 120ms (Views: 118.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:49:50 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:49:50 +0900
+Started GET "/users/auth/facebook/callback?code=AQCXvgk6adLn2c2Gsa0R8FwMCEo_xDk_fcgzLhVlJUafmyxAcvKpX45St7tAt2-mQpQ6TZ5Q05u8Seo9TjY8KACf_f5K_CirzRlyijFMhRtvY9VayCvHCx0kClhhUhr-FbsF6_8k6Hc3X5aWToWfk_4P4QuPwV0GXD5X9ag0Tohl80wbG6JbEcrlPU3flj9iHSAfqekOwefLemWYcI3dlJv1D2vSWJm6Dt8OApyA5Fsyy1w_J27-4NM0IFCiImqdOZzQBw8OavrzLN-CTxYtDkij_FCr54h36kcvPdTss1ZOSwu2FHF5tPLHE7VpFXx44p8YA-fZiNIcg44euBbE-v3Oder_kSjr-YHDqNHS0-XrXicl1Kkf3pE6gVuQMLlJ2ms&state=b5a00d73b05ac30f84c2804f9b070dfbf7d229b02f7b7559" for ::1 at 2017-03-17 02:49:51 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCXvgk6adLn2c2Gsa0R8FwMCEo_xDk_fcgzLhVlJUafmyxAcvKpX45St7tAt2-mQpQ6TZ5Q05u8Seo9TjY8KACf_f5K_CirzRlyijFMhRtvY9VayCvHCx0kClhhUhr-FbsF6_8k6Hc3X5aWToWfk_4P4QuPwV0GXD5X9ag0Tohl80wbG6JbEcrlPU3flj9iHSAfqekOwefLemWYcI3dlJv1D2vSWJm6Dt8OApyA5Fsyy1w_J27-4NM0IFCiImqdOZzQBw8OavrzLN-CTxYtDkij_FCr54h36kcvPdTss1ZOSwu2FHF5tPLHE7VpFXx44p8YA-fZiNIcg44euBbE-v3Oder_kSjr-YHDqNHS0-XrXicl1Kkf3pE6gVuQMLlJ2ms", "state"=>"b5a00d73b05ac30f84c2804f9b070dfbf7d229b02f7b7559"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 145ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:49:51 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.1ms)
+Completed 200 OK in 153ms (Views: 151.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 02:50:23 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (4.2ms)
+  Rendered devise/shared/_links.html.erb (5.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (79.5ms)
+Completed 200 OK in 455ms (Views: 450.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:50:25 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.1ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (120.7ms)
+Completed 200 OK in 416ms (Views: 413.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 02:50:26 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (17.8ms)
+  Rendered devise/shared/_links.html.erb (2.9ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (57.0ms)
+Completed 200 OK in 378ms (Views: 375.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:50:27 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:50:28 +0900
+Started GET "/users/auth/facebook/callback?code=AQA4KNrxvJ5oFIIB9XPtozr5aZ8mARLS-tLfUu1QQuOPHFmDxieDf32A_fsRPIaVZQ6pgHTxlLPCbGDvSIhzQ5YF3t1C25mC2EWfxrnh3T7F1DPQgEO9GQmIW4W8Qnu_NRX0ESFCXfRGcEpLtMf4ElpsFsoC4xj2mWOPzn5s0-nprmODra350d-CS2l85R7nfqU4ro9_UZMiVe15qASFoApQv4ALT7Tt16CM13jRlBkV3FoNz4Kov4IAgU1edh5H2_yH177lhjQjN0CvmBKPeQB1gjd6l3h9V2GWPR4ZFAjkOYn5vVURt0TZ91i80YNJM93JJCKB22P566sELSPS6itcRdQeg13o1wsg2RMhL2DDyLR_VP8V0e2CT9ywn7FW0iY&state=fee94781bf42c60961599d5dc327ec8e0deffcb3587a6ff1" for ::1 at 2017-03-17 02:50:28 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQA4KNrxvJ5oFIIB9XPtozr5aZ8mARLS-tLfUu1QQuOPHFmDxieDf32A_fsRPIaVZQ6pgHTxlLPCbGDvSIhzQ5YF3t1C25mC2EWfxrnh3T7F1DPQgEO9GQmIW4W8Qnu_NRX0ESFCXfRGcEpLtMf4ElpsFsoC4xj2mWOPzn5s0-nprmODra350d-CS2l85R7nfqU4ro9_UZMiVe15qASFoApQv4ALT7Tt16CM13jRlBkV3FoNz4Kov4IAgU1edh5H2_yH177lhjQjN0CvmBKPeQB1gjd6l3h9V2GWPR4ZFAjkOYn5vVURt0TZ91i80YNJM93JJCKB22P566sELSPS6itcRdQeg13o1wsg2RMhL2DDyLR_VP8V0e2CT9ywn7FW0iY", "state"=>"fee94781bf42c60961599d5dc327ec8e0deffcb3587a6ff1"}
+  [1m[36mUser Load (0.8ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 145ms (ActiveRecord: 1.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:50:29 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (15.5ms)
+Completed 200 OK in 112ms (Views: 111.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:50:33 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:50:33 +0900
+Started GET "/users/auth/facebook/callback?code=AQANjNtXhr02LAbp_ttm4BxYwwLa-3FyYv2XLYxyvf-DXH0G2qGXAThGDIYBsyIwD01Py6KWZYelYI9op8_btEMzRhCVFaxo9EEaRfXeQmBOl1bXkUyxNeVvjBWSYopHlTNsxYSImyAEVGuV0iJ1Ghv-JjyZ0BB0qiEKIMYEByFRTJAvx-vaUs7379Ti_1ud6EkrygZXrWDG1Bt1DZx7V3eLQ8K4PiyaCKnPWini3dRQaECBWskGB3iQxksXpP4qjz45eYHc7qhEKAQ7P1Sz3EgMUxTs2KqmzzdcqMOPTxEC0U-Gc14vqEMg58KPhl-PehfImKYAvDIF563_txX4_jCPtFP4xFQyVUOZn0YlMKPnhHqXV7dF1fOoLtlkQZaFf0c&state=cb6899eb919728cda3f19fd1281955c6129eca7ff28fc9a9" for ::1 at 2017-03-17 02:50:33 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQANjNtXhr02LAbp_ttm4BxYwwLa-3FyYv2XLYxyvf-DXH0G2qGXAThGDIYBsyIwD01Py6KWZYelYI9op8_btEMzRhCVFaxo9EEaRfXeQmBOl1bXkUyxNeVvjBWSYopHlTNsxYSImyAEVGuV0iJ1Ghv-JjyZ0BB0qiEKIMYEByFRTJAvx-vaUs7379Ti_1ud6EkrygZXrWDG1Bt1DZx7V3eLQ8K4PiyaCKnPWini3dRQaECBWskGB3iQxksXpP4qjz45eYHc7qhEKAQ7P1Sz3EgMUxTs2KqmzzdcqMOPTxEC0U-Gc14vqEMg58KPhl-PehfImKYAvDIF563_txX4_jCPtFP4xFQyVUOZn0YlMKPnhHqXV7dF1fOoLtlkQZaFf0c", "state"=>"cb6899eb919728cda3f19fd1281955c6129eca7ff28fc9a9"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 145ms (ActiveRecord: 0.6ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:50:34 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 97ms (Views: 95.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 02:53:22 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (11.3ms)
+  Rendered pages/index.html.erb within layouts/application (27.1ms)
+Completed 200 OK in 539ms (Views: 521.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:53:27 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.2ms)
+  Rendered partial/_deviseErrorMsg.html.erb (2.3ms)
+  Rendered devise/shared/_links.html.erb (4.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (84.4ms)
+Completed 200 OK in 290ms (Views: 257.1ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:53:29 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:53:29 +0900
+Started GET "/users/auth/facebook/callback?code=AQD6Gdi_FzHuae56_xbZsx1SL-kVn0u6bHmkE98whOl5NnfHYg-4N_HonzsGg4CleXf3bgQ20QfJf5rSJapBxWhoDSq34ciijzqSZaoIr0-OmLdeU5dcurrThOipiPb4ZG8V1ZIUtkcfqLxr4kCpJtheElSbFWBrISTDOvthHgDcoAZ4HY7Ny2ItZweq_SViHNsL0KIhzYZEnCSLbOhmKnKBm7Cbn4xY4KeCnZPHvqk97f2CdmHY_WkBgcQ6b0m6YB9e3iJvdshRyTBn3fcSQgM7xCYm-MNZ-fU11G8ztzKQlgvEuiLDcYuO25-Mfpyq3FNeiwa8GjECyiyMotbmZ86GHGd1DX0ywV6Br_mDu-cFIvxE4RJZQNsLhhIc21fA2PQ&state=dc1d330bd2952f34ea9b473e60434488f734eb52d394856f" for ::1 at 2017-03-17 02:53:30 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQD6Gdi_FzHuae56_xbZsx1SL-kVn0u6bHmkE98whOl5NnfHYg-4N_HonzsGg4CleXf3bgQ20QfJf5rSJapBxWhoDSq34ciijzqSZaoIr0-OmLdeU5dcurrThOipiPb4ZG8V1ZIUtkcfqLxr4kCpJtheElSbFWBrISTDOvthHgDcoAZ4HY7Ny2ItZweq_SViHNsL0KIhzYZEnCSLbOhmKnKBm7Cbn4xY4KeCnZPHvqk97f2CdmHY_WkBgcQ6b0m6YB9e3iJvdshRyTBn3fcSQgM7xCYm-MNZ-fU11G8ztzKQlgvEuiLDcYuO25-Mfpyq3FNeiwa8GjECyiyMotbmZ86GHGd1DX0ywV6Br_mDu-cFIvxE4RJZQNsLhhIc21fA2PQ", "state"=>"dc1d330bd2952f34ea9b473e60434488f734eb52d394856f"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 175ms (ActiveRecord: 0.6ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:53:31 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.7ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (19.1ms)
+Completed 200 OK in 143ms (Views: 141.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:53:37 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:53:37 +0900
+Started GET "/users/auth/facebook/callback?code=AQAVzk-zVhAB8eHNioSIGzwGY2BplYH2vYRwci7MLjQNYR-56axFgorHggidMbjfAcwnFUElrq3TXwlPOC5owPF4yak7edKhJC3hLI4g8oQzHrMSiDSNiU0mD0WACsA5WqJbOrxTq3KQNxAnhVhf3nTkHF3a71ZTVbtRMv3Utab942sT3iUuz7L1ceG3qszXHi5DnwD8Ju2IuhcRH9oPeOUk_14oOWBDMfvpV1gzX4CTEysTzocvRAUI80wYUT-nDAbR2kBqpyTUYe6m2TkxrKnCyo3w7bwDtuCAwz34p3rq8rmTwEkPnYml6M_Uit3aBvcdNQFqkA9mPQicrK-3-O6SwPci_6zYShOlclLPHnaw-SiUIPK2zg5tuSwvl7pjTWk&state=d8ddb6182d87766c32a1f63a1b4a4c3dfef1e0f43339921e" for ::1 at 2017-03-17 02:53:37 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAVzk-zVhAB8eHNioSIGzwGY2BplYH2vYRwci7MLjQNYR-56axFgorHggidMbjfAcwnFUElrq3TXwlPOC5owPF4yak7edKhJC3hLI4g8oQzHrMSiDSNiU0mD0WACsA5WqJbOrxTq3KQNxAnhVhf3nTkHF3a71ZTVbtRMv3Utab942sT3iUuz7L1ceG3qszXHi5DnwD8Ju2IuhcRH9oPeOUk_14oOWBDMfvpV1gzX4CTEysTzocvRAUI80wYUT-nDAbR2kBqpyTUYe6m2TkxrKnCyo3w7bwDtuCAwz34p3rq8rmTwEkPnYml6M_Uit3aBvcdNQFqkA9mPQicrK-3-O6SwPci_6zYShOlclLPHnaw-SiUIPK2zg5tuSwvl7pjTWk", "state"=>"d8ddb6182d87766c32a1f63a1b4a4c3dfef1e0f43339921e"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 131ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:53:38 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (10.4ms)
+Completed 200 OK in 108ms (Views: 107.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2017-03-17 02:55:04 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"aYMi/e7W73w6w3gUrPjoqhc4eFeVk4u5duK4ix+jSRgo4b5Uodr5s9O+6N2qVOXwr0LpdHkOJp/RDL/APZR/SQ==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.8ms)
+  Rendered devise/shared/_links.html.erb (2.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (30.1ms)
+Completed 200 OK in 294ms (Views: 260.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:07 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:07 +0900
+Started GET "/users/auth/facebook/callback?code=AQDNXENZcVZgFaSpjWVpslNhsT4M33tq4dakXE3hiON0L2twGEGSTXrGW14mp8uAYQodOB6nwJ6iJkb9OWTPaOgltT7-bNtSBJrP4Kaq5USSFUvo-Hf8no6AjRx2IeBg-eXmvq0r0RgRaKBN229BYJGI3alLT0rF478SofarX_MJPARb6P4CO4rNchNGuFqLC845d3t41voD5k3qIi3Cz0If7mgWRCchMkepvpwiIn4BlvAHijvPOZXx-1s-I73FBckeUNufMmn7VPeqMu822Utbj5NrW9KOw42rIo5HUj-dshf1v3cBglh1-Wc_Xg20WZMscb5iXPwMe6A5rcG14vNKShRmxz8CIPTxBQceip4yX1pBw_iDwc3k6xU5lVBI44Y&state=321ca288a2b8c2a2f51a7325dcef15aee3749a0bdb15d06f" for ::1 at 2017-03-17 02:55:08 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQDNXENZcVZgFaSpjWVpslNhsT4M33tq4dakXE3hiON0L2twGEGSTXrGW14mp8uAYQodOB6nwJ6iJkb9OWTPaOgltT7-bNtSBJrP4Kaq5USSFUvo-Hf8no6AjRx2IeBg-eXmvq0r0RgRaKBN229BYJGI3alLT0rF478SofarX_MJPARb6P4CO4rNchNGuFqLC845d3t41voD5k3qIi3Cz0If7mgWRCchMkepvpwiIn4BlvAHijvPOZXx-1s-I73FBckeUNufMmn7VPeqMu822Utbj5NrW9KOw42rIo5HUj-dshf1v3cBglh1-Wc_Xg20WZMscb5iXPwMe6A5rcG14vNKShRmxz8CIPTxBQceip4yX1pBw_iDwc3k6xU5lVBI44Y", "state"=>"321ca288a2b8c2a2f51a7325dcef15aee3749a0bdb15d06f"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 148ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:08 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.7ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 130ms (Views: 129.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:22 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:22 +0900
+Started GET "/users/auth/facebook/callback?code=AQAX95Wz_A39BdRZFWcC-nO8Qy7GDiKsw1LidZIhGSqcy8gtdI1ElYDuEU5kgjPuLuKOLsG7-9N0-BHnMStqa8JcbXKvoBCwz3S5AMRntT6-d7Q7u2a0CwDWJbk3wJ6hTunnT__Nwqtn50o0v4LoLtTUwUCIFucAYsu1a6-wIDbAD5PZSpPxi5LiPLdItyTyc48nnUyrx2luVKh0zyxbDuas4iu-XS2A-7PYrRDhv5zGigy2pdIELQbJV6VIo-00zFMXlJn0zYcnW0t1JkrXWLF-xxgbDWhxn7ROl5INB5gieKHdLK2zNJS4iYWs73ghCfQpNteTDHlzFRmq0q8NscxD_x4aIvIFUoqpWgFkUrkPQJ13h3AWmDJWf25WoDN4sVc&state=1b35d2f4fb37b8b96caf12a27cd895bbbe7839f3490df489" for ::1 at 2017-03-17 02:55:22 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAX95Wz_A39BdRZFWcC-nO8Qy7GDiKsw1LidZIhGSqcy8gtdI1ElYDuEU5kgjPuLuKOLsG7-9N0-BHnMStqa8JcbXKvoBCwz3S5AMRntT6-d7Q7u2a0CwDWJbk3wJ6hTunnT__Nwqtn50o0v4LoLtTUwUCIFucAYsu1a6-wIDbAD5PZSpPxi5LiPLdItyTyc48nnUyrx2luVKh0zyxbDuas4iu-XS2A-7PYrRDhv5zGigy2pdIELQbJV6VIo-00zFMXlJn0zYcnW0t1JkrXWLF-xxgbDWhxn7ROl5INB5gieKHdLK2zNJS4iYWs73ghCfQpNteTDHlzFRmq0q8NscxD_x4aIvIFUoqpWgFkUrkPQJ13h3AWmDJWf25WoDN4sVc", "state"=>"1b35d2f4fb37b8b96caf12a27cd895bbbe7839f3490df489"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 148ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:23 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.1ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (12.0ms)
+Completed 200 OK in 100ms (Views: 98.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:26 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (5.2ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.5ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (40.5ms)
+Completed 200 OK in 315ms (Views: 313.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 02:55:29 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.2ms)
+  Rendered pages/index.html.erb within layouts/application (8.4ms)
+Completed 200 OK in 216ms (Views: 204.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 02:55:30 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (6.9ms)
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (35.3ms)
+Completed 200 OK in 190ms (Views: 188.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:32 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.5ms)
+  Rendered devise/shared/_links.html.erb (9.5ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (58.8ms)
+Completed 200 OK in 369ms (Views: 366.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 02:55:33 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (6.5ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (31.8ms)
+Completed 200 OK in 333ms (Views: 329.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:34 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 02:55:34 +0900
+Started GET "/users/auth/facebook/callback?code=AQAWw6d-pvDSL3eJ3r5lLtcpi5j-2lR3gk5HFgpzTB8ZsOk09TB0GfhNHS53lCUP89r0k9MchWYtGXPx6xpsPMlB552kTt2EkBSgViefWhrCF_3hzwm3mdH2yFDdutZitQvTLwYgCYHsPsddODs6J0E752vXJBGrQZMqtbtOu6422KtNyjXKeN2mM6JO7F9TzVDAZasYVPGkB_izS66tc0i0_ngi-9j5-5p_nvMZZOJaFxuPTNoouF2lDeqafbLvETD9OAHZiLJq79-CZ0gx6DNwy35Xnvz3yWf9bWS_BhR6FKobDYdobS7jC4Th7X5oDK1UnJI1GQo1dF4Xjrr89TXI-PdMeYYdbT891Dh3Ie8ugLirQ9QwoMnSsYBKl_pWBjI&state=5fc6251c1d2373480778731fd39787d1b578aa6213c0a0bb" for ::1 at 2017-03-17 02:55:34 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAWw6d-pvDSL3eJ3r5lLtcpi5j-2lR3gk5HFgpzTB8ZsOk09TB0GfhNHS53lCUP89r0k9MchWYtGXPx6xpsPMlB552kTt2EkBSgViefWhrCF_3hzwm3mdH2yFDdutZitQvTLwYgCYHsPsddODs6J0E752vXJBGrQZMqtbtOu6422KtNyjXKeN2mM6JO7F9TzVDAZasYVPGkB_izS66tc0i0_ngi-9j5-5p_nvMZZOJaFxuPTNoouF2lDeqafbLvETD9OAHZiLJq79-CZ0gx6DNwy35Xnvz3yWf9bWS_BhR6FKobDYdobS7jC4Th7X5oDK1UnJI1GQo1dF4Xjrr89TXI-PdMeYYdbT891Dh3Ie8ugLirQ9QwoMnSsYBKl_pWBjI", "state"=>"5fc6251c1d2373480778731fd39787d1b578aa6213c0a0bb"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 157ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:35 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.5ms)
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.6ms)
+Completed 200 OK in 99ms (Views: 98.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:39 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (31.3ms)
+Completed 200 OK in 309ms (Views: 308.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 02:55:41 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.5ms)
+  Rendered pages/index.html.erb within layouts/application (4.1ms)
+Completed 200 OK in 215ms (Views: 200.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 02:55:43 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.1ms)
+  Rendered partial/_deviseErrorMsg.html.erb (17.0ms)
+  Rendered devise/shared/_links.html.erb (8.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (107.9ms)
+Completed 200 OK in 386ms (Views: 384.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:01:28 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/users/auth/facebook/callback?code=AQAEl6Od81c-J1_FBHSzEtUaHOeN66Vq2CMYRdRcGlvkBGNK78bJzEe3SK_a5r-PS3DGDW5ZlMsN7gVjtLklB4p_oZPKoBem_0p2QNkAKh0yMmwEolzLo5BJT7-7RvptRCfr9_Sfk3_DfWH0Yp6Bv3vyQhuwFKCxndYGKrn9EClFl6PWSXTFEl7R2mDqLEbbgpwjWvLXb9rLF_Y76fq02mY1ZPtWXFjOIR3rDsKfeKs7l9iVxKtmPmFxmLmzc2XOtOSeIHxBpwSiZO0aJPwgxAnDKki9Dz5J3hyoYv1skt-11AIq3kivazjtXNk7b-Osnc43i75UvLZr1L7_DOqSdDkhIRBazJ63ypItd5VCijgdSGUeaFGJhHVeelUV4LGKQ0Y&state=c557dc330e395f6b871e56848cef5c561a82cd852ddd233d" for ::1 at 2017-03-17 03:01:29 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAEl6Od81c-J1_FBHSzEtUaHOeN66Vq2CMYRdRcGlvkBGNK78bJzEe3SK_a5r-PS3DGDW5ZlMsN7gVjtLklB4p_oZPKoBem_0p2QNkAKh0yMmwEolzLo5BJT7-7RvptRCfr9_Sfk3_DfWH0Yp6Bv3vyQhuwFKCxndYGKrn9EClFl6PWSXTFEl7R2mDqLEbbgpwjWvLXb9rLF_Y76fq02mY1ZPtWXFjOIR3rDsKfeKs7l9iVxKtmPmFxmLmzc2XOtOSeIHxBpwSiZO0aJPwgxAnDKki9Dz5J3hyoYv1skt-11AIq3kivazjtXNk7b-Osnc43i75UvLZr1L7_DOqSdDkhIRBazJ63ypItd5VCijgdSGUeaFGJhHVeelUV4LGKQ0Y", "state"=>"c557dc330e395f6b871e56848cef5c561a82cd852ddd233d"}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.5ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 196ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:01:30 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (3.4ms)
+  Rendered devise/shared/_links.html.erb (1.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (38.1ms)
+Completed 200 OK in 466ms (Views: 462.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:01:33 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:01:33 +0900
+Started GET "/users/auth/facebook/callback?code=AQAOix-JDuMn_0DCiZFsQbwMZWMz9mEqq3jy0cxR-0NpGI72w0uUKa8OLoe8dHdQzvPyyAWXcFHzH9CCK7hc-Iqti1YJ1nrv0oMEQP7GofhhmMCewEjQE2zP03_EQ5MzU8at5MLYcKw-DjjpWhYiD7UrfINb-9A6n0tLh3FUWH8KMXi6VI7zgs30wwpVE76nQ1b9tmganWK3c9I15hU23dcRXSDleOQNqIVqZW78NR91dbJLcVeRHTBGV0stWd2jKUQYUBKTiLTRBjbLis6iVpJf-QKN3nijCwdNyVGky48Z8bRyKLiwK-wVTkTQvcPnPKg02ol7ZZxi3qybhUJj5hymDQ87YPQOhZNLNUyiBMWq6NhCpmq7SrUiKT4_lE_RQus&state=a1dedf6a6d5b7d9663f4d5dd2a4cf7ed16170d99236fb5da" for ::1 at 2017-03-17 03:01:34 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAOix-JDuMn_0DCiZFsQbwMZWMz9mEqq3jy0cxR-0NpGI72w0uUKa8OLoe8dHdQzvPyyAWXcFHzH9CCK7hc-Iqti1YJ1nrv0oMEQP7GofhhmMCewEjQE2zP03_EQ5MzU8at5MLYcKw-DjjpWhYiD7UrfINb-9A6n0tLh3FUWH8KMXi6VI7zgs30wwpVE76nQ1b9tmganWK3c9I15hU23dcRXSDleOQNqIVqZW78NR91dbJLcVeRHTBGV0stWd2jKUQYUBKTiLTRBjbLis6iVpJf-QKN3nijCwdNyVGky48Z8bRyKLiwK-wVTkTQvcPnPKg02ol7ZZxi3qybhUJj5hymDQ87YPQOhZNLNUyiBMWq6NhCpmq7SrUiKT4_lE_RQus", "state"=>"a1dedf6a6d5b7d9663f4d5dd2a4cf7ed16170d99236fb5da"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 169ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:01:35 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.2ms)
+Completed 200 OK in 144ms (Views: 143.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 03:11:13 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.4ms)
+  Rendered pages/index.html.erb within layouts/application (11.9ms)
+Completed 200 OK in 441ms (Views: 428.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:11:15 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.7ms)
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (59.4ms)
+Completed 200 OK in 198ms (Views: 165.5ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:11:17 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:11:17 +0900
+Started POST "/users" for ::1 at 2017-03-17 03:11:35 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"KUoYzAbzBg38Y9kM8VhUMbYG81EjUQY8npWFWz/S1PVoKIRlSf8QwhUeScX39FlrDnxics/Mqxo5e4IQHeXipA==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (18.5ms)
+Completed 200 OK in 195ms (Views: 166.6ms | ActiveRecord: 0.2ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 03:11:37 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.4ms)
+  Rendered devise/shared/_links.html.erb (3.1ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (21.1ms)
+Completed 200 OK in 196ms (Views: 191.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:11:39 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:11:40 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:18:04 +0900
+Started GET "/" for ::1 at 2017-03-17 03:18:04 +0900
+Started GET "/" for ::1 at 2017-03-17 03:18:04 +0900
+Started GET "/" for ::1 at 2017-03-17 03:18:04 +0900
+Started GET "/" for ::1 at 2017-03-17 03:18:04 +0900
+Processing by PagesController#index as HTML
+Processing by PagesController#index as HTML
+Processing by PagesController#index as HTML
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendering pages/index.html.erb within layouts/application
+  Rendering pages/index.html.erb within layouts/application
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered partial/_navbar.html.erb (0.3ms)
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (12.7ms)
+  Rendered pages/index.html.erb within layouts/application (11.3ms)
+  Rendered partial/_navbar.html.erb (0.6ms)
+  Rendered pages/index.html.erb within layouts/application (8.2ms)
+  Rendered pages/index.html.erb within layouts/application (11.3ms)
+Completed 200 OK in 345ms (Views: 335.9ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 345ms (Views: 336.9ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 345ms (Views: 338.5ms | ActiveRecord: 0.0ms)
+
+
+Completed 200 OK in 347ms (Views: 340.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 03:18:34 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (8.7ms)
+  Rendered pages/index.html.erb within layouts/application (14.1ms)
+Completed 200 OK in 437ms (Views: 424.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:18:37 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (52.5ms)
+Completed 200 OK in 177ms (Views: 146.9ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:18:38 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:18:38 +0900
+Started GET "/users/auth/facebook/callback?code=AQCq33I-mQ-OCkvSCh3YAjFHOVSK7dWMlBoSf_1vQ5UQ3Gxg46V3LFoAq9GWuzRvo-oeyOYaZNy7vIZhneE7Dh9XKaYegp8u4rZP-A_Hxr-OoBWlul-fD5nebudxQL9hBPovJCWOtqO5psbVkrnRngfYlCJQR26vQcvy4XSVXN233XA8v7qx0tzhPtpRrC2vW4H5pOyvZ7_62pxOJ8vQwo3J7ZkelsflAJLMqpq3eei2Nclm6M1AmUlbVA6kAusNKtSdrzwD9p5kX1MtdJTFQD4QoDWs5b0PR3511qPT5upYg0FT61yPExP1EYhILLQdq2iv5z-SGs7X-Kq3zVFUOOKRwladFgd4lRT-J4Fj8X7A_8DL-0Ys9FBlQQekcG5GS20&state=809fbfca5b3cd5f1910d716daac5595a700ceb05ac8b331b" for ::1 at 2017-03-17 03:18:39 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCq33I-mQ-OCkvSCh3YAjFHOVSK7dWMlBoSf_1vQ5UQ3Gxg46V3LFoAq9GWuzRvo-oeyOYaZNy7vIZhneE7Dh9XKaYegp8u4rZP-A_Hxr-OoBWlul-fD5nebudxQL9hBPovJCWOtqO5psbVkrnRngfYlCJQR26vQcvy4XSVXN233XA8v7qx0tzhPtpRrC2vW4H5pOyvZ7_62pxOJ8vQwo3J7ZkelsflAJLMqpq3eei2Nclm6M1AmUlbVA6kAusNKtSdrzwD9p5kX1MtdJTFQD4QoDWs5b0PR3511qPT5upYg0FT61yPExP1EYhILLQdq2iv5z-SGs7X-Kq3zVFUOOKRwladFgd4lRT-J4Fj8X7A_8DL-0Ys9FBlQQekcG5GS20", "state"=>"809fbfca5b3cd5f1910d716daac5595a700ceb05ac8b331b"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (3.6ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 225ms (ActiveRecord: 4.3ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:18:40 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.7ms)
+  Rendered partial/_deviseErrorMsg.html.erb (2.3ms)
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (31.1ms)
+Completed 200 OK in 193ms (Views: 190.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:23:03 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.6ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (5.2ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (48.6ms)
+Completed 200 OK in 505ms (Views: 478.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:23:06 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 03:23:06 +0900
+Started GET "/users/auth/facebook/callback?code=AQD5xwAyvhbNrbTRjpgWb05CcmWZR9LtcFWUfmeJMOjcdHbqndA5iYiN6VnK0HJhiOVVxu0ync0pPu3uRKwEEtmhKif-MQlioYoDZjxDd0bCaYf1ccicFYyINQvJ6FkC9niYT-MLP7wZTWRDR8ZUNcXWxIc_Qn_nvl5gWwBmDIuU8aUQnsaHC7XXX201WuQuhkKvcSuhU-erW8H10dJsfHhmJjm0FdFVL52nr6IIKnMtpkq5dlDbPAQk2k-AIkPoYApGBmBYhcRcysOyKcktG8St3DJSdBIzOzSCH5IArg4iwvqtW7or8PqChmz92sFwfkMt6KwcWmKh7AAw7SekC2ykQXjmvpzIr82L5C37j4zHsIC0N8F4Bm5Q8YwfjcLgRFk&state=700c551e337afd2c1b3218cd4b7261471f279b4db239fa26" for ::1 at 2017-03-17 03:23:06 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQD5xwAyvhbNrbTRjpgWb05CcmWZR9LtcFWUfmeJMOjcdHbqndA5iYiN6VnK0HJhiOVVxu0ync0pPu3uRKwEEtmhKif-MQlioYoDZjxDd0bCaYf1ccicFYyINQvJ6FkC9niYT-MLP7wZTWRDR8ZUNcXWxIc_Qn_nvl5gWwBmDIuU8aUQnsaHC7XXX201WuQuhkKvcSuhU-erW8H10dJsfHhmJjm0FdFVL52nr6IIKnMtpkq5dlDbPAQk2k-AIkPoYApGBmBYhcRcysOyKcktG8St3DJSdBIzOzSCH5IArg4iwvqtW7or8PqChmz92sFwfkMt6KwcWmKh7AAw7SekC2ykQXjmvpzIr82L5C37j4zHsIC0N8F4Bm5Q8YwfjcLgRFk", "state"=>"700c551e337afd2c1b3218cd4b7261471f279b4db239fa26"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.5ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 174ms (ActiveRecord: 1.3ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 03:23:07 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.4ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.9ms)
+Completed 200 OK in 137ms (Views: 135.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 13:55:01 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 13:55:02 +0900
+Started GET "/users/auth/facebook/callback?code=AQBNxLwHZK6dlXPD6TpybTbQmEiOc0XecmGk2dADvUHp5rrNZu_brms5yGMuJgH6uW0Nx_uLKCfXf5y_THCQ5Z10I6BkaGiTXAOpK6Sak0hv9gd9gjbFg7EaWtmz2Cw_jeKnXV0mvwumicPaxE5O2shkFdjXR3tCDsCcRsEtKG7EcQEOkQX0WTfe-lPWOaFn_QECjd8vIOKB4NUHW_fB3Todir5MWi4hvoISmo7NjcK77yiquOtoT8w6OSk0_zxk0-yfmumzUZVPlgaDbvsSVsuVvZmRhgvptcUey0h9pHkKu8CTW6Zljk9184ssCG2I_18ES3Tuu5kZJa7_HNvUKPBz&state=fd65e07a4b47cf5871b93ec547b7ed5777fb80bd2145c502" for ::1 at 2017-03-17 13:55:02 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQBNxLwHZK6dlXPD6TpybTbQmEiOc0XecmGk2dADvUHp5rrNZu_brms5yGMuJgH6uW0Nx_uLKCfXf5y_THCQ5Z10I6BkaGiTXAOpK6Sak0hv9gd9gjbFg7EaWtmz2Cw_jeKnXV0mvwumicPaxE5O2shkFdjXR3tCDsCcRsEtKG7EcQEOkQX0WTfe-lPWOaFn_QECjd8vIOKB4NUHW_fB3Todir5MWi4hvoISmo7NjcK77yiquOtoT8w6OSk0_zxk0-yfmumzUZVPlgaDbvsSVsuVvZmRhgvptcUey0h9pHkKu8CTW6Zljk9184ssCG2I_18ES3Tuu5kZJa7_HNvUKPBz", "state"=>"fd65e07a4b47cf5871b93ec547b7ed5777fb80bd2145c502"}
+  [1m[36mUser Load (0.6ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (1.8ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 148ms (ActiveRecord: 3.2ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 13:55:03 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.7ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (16.1ms)
+Completed 200 OK in 124ms (Views: 122.8ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users" for ::1 at 2017-03-17 13:55:07 +0900
+Processing by Devise::RegistrationsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"tjNuKguPV/rexWn9iQPxSGViNqPDkr94StFm1e43Vnr3UfKDRINBNTe4+TSPr/wS3RingC8PEl7tP2GezABgKw==", "user"=>{"email"=>"", "password"=>"[FILTERED]", "password_confirmation"=>"[FILTERED]"}, "commit"=>"Sign up"}
+  [1m[35m (0.4ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (3.6ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.4ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (19.2ms)
+Completed 200 OK in 191ms (Views: 154.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/users" for ::1 at 2017-03-17 14:02:07 +0900
+  
+ActionController::RoutingError (No route matches [GET] "/users"):
+  
+actionpack (5.0.2) lib/action_dispatch/middleware/debug_exceptions.rb:53:in `call'
+web-console (3.4.0) lib/web_console/middleware.rb:135:in `call_app'
+web-console (3.4.0) lib/web_console/middleware.rb:28:in `block in call'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `catch'
+web-console (3.4.0) lib/web_console/middleware.rb:18:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'
+railties (5.0.2) lib/rails/rack/logger.rb:36:in `call_app'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `block in call'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:26:in `tagged'
+activesupport (5.0.2) lib/active_support/tagged_logging.rb:69:in `tagged'
+railties (5.0.2) lib/rails/rack/logger.rb:24:in `call'
+sprockets-rails (3.2.0) lib/sprockets/rails/quiet_assets.rb:13:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/request_id.rb:24:in `call'
+rack (2.0.1) lib/rack/method_override.rb:22:in `call'
+rack (2.0.1) lib/rack/runtime.rb:22:in `call'
+activesupport (5.0.2) lib/active_support/cache/strategy/local_cache_middleware.rb:28:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/executor.rb:12:in `call'
+actionpack (5.0.2) lib/action_dispatch/middleware/static.rb:136:in `call'
+rack (2.0.1) lib/rack/sendfile.rb:111:in `call'
+railties (5.0.2) lib/rails/engine.rb:522:in `call'
+puma (3.8.2) lib/puma/configuration.rb:224:in `call'
+puma (3.8.2) lib/puma/server.rb:600:in `handle_request'
+puma (3.8.2) lib/puma/server.rb:435:in `process_client'
+puma (3.8.2) lib/puma/server.rb:299:in `block in run'
+puma (3.8.2) lib/puma/thread_pool.rb:120:in `block in spawn_thread'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.5ms)
+  Rendered collection of /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_route.html.erb [18 times] (7.5ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/routes/_table.html.erb (9.5ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.6ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/routing_error.html.erb within rescues/layout (122.9ms)
+Started GET "/" for ::1 at 2017-03-17 14:02:15 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered pages/index.html.erb within layouts/application (3.6ms)
+Completed 200 OK in 79ms (Views: 75.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:02:18 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (354.2ms)
+Completed 500 Internal Server Error in 382ms (ActiveRecord: 1.0ms)
+
+
+  
+ActionView::Template::Error (undefined method `user_omniauth_authorize_path' for #<#<Class:0x007f80473e1e48>:0x007f80473e08b8>
+Did you mean?  user_facebook_omniauth_authorize_path):
+     9:   <%= form_for(resource, as: resource_name, url: registration_path(resource_name)) do |f| %>
+    10:     <%= render 'partial/deviseErrorMsg' %>
+    11: 
+    12:     <%= link_to "Sign in with Facebook", user_omniauth_authorize_path(:facebook) %>
+    13: 
+    14:     <div class="form-group">
+    15:       <%= f.label :email %><br />
+  
+app/views/devise/registrations/new.html.erb:12:in `block in _app_views_devise_registrations_new_html_erb___2242011350864761836_70094422546840'
+app/views/devise/registrations/new.html.erb:9:in `_app_views_devise_registrations_new_html_erb___2242011350864761836_70094422546840'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (4.6ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/template_error.html.erb within rescues/layout (93.7ms)
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:02:38 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (21.2ms)
+Completed 200 OK in 133ms (Views: 131.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:02:41 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:02:41 +0900
+Started GET "/users/auth/facebook/callback?code=AQBgUH2lRuoMXHRa9wbhl6x-nclYSqn-XhG3mr75B6Kbm8SMMxsm2CpCWjtPulDIpGy2fGSsVs1NFtc84QSXgNeHtOw1mW9gQv8RdxVCsDGaoypN9-j7qctWIvJAbxwzs5MKRtwG_NMp73isNRPIK64vJyatiAhJ66kXUebNa48LKoQFj-6rAldXlFKSijRUdAii0ISBdmQkFT6fRkENUj3Hc45gCxTEyhXK25YRFjn1wXaBmajFzHK_NJHzJ7dwutXtVmgZpQSMcIZ4Ol2aC2Ptv4XRqli73Olj9xLd6ZVBSgbBph6uXPrl5Kgh7YxBS_n6T1G2lv4lObBoGcRiFBaF&state=9856a3ff7ed602394cf560f5eb4ac86a7009a114e415ad06" for ::1 at 2017-03-17 14:02:42 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQBgUH2lRuoMXHRa9wbhl6x-nclYSqn-XhG3mr75B6Kbm8SMMxsm2CpCWjtPulDIpGy2fGSsVs1NFtc84QSXgNeHtOw1mW9gQv8RdxVCsDGaoypN9-j7qctWIvJAbxwzs5MKRtwG_NMp73isNRPIK64vJyatiAhJ66kXUebNa48LKoQFj-6rAldXlFKSijRUdAii0ISBdmQkFT6fRkENUj3Hc45gCxTEyhXK25YRFjn1wXaBmajFzHK_NJHzJ7dwutXtVmgZpQSMcIZ4Ol2aC2Ptv4XRqli73Olj9xLd6ZVBSgbBph6uXPrl5Kgh7YxBS_n6T1G2lv4lObBoGcRiFBaF", "state"=>"9856a3ff7ed602394cf560f5eb4ac86a7009a114e415ad06"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 147ms (ActiveRecord: 0.5ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:02:43 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.5ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (19.6ms)
+Completed 200 OK in 132ms (Views: 125.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:03:05 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (7.3ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.7ms)
+  Rendered devise/shared/_links.html.erb (1.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (84.1ms)
+Completed 200 OK in 323ms (Views: 321.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:03:06 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.5ms)
+  Rendered devise/shared/_links.html.erb (1.7ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (38.8ms)
+Completed 200 OK in 277ms (Views: 273.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:03:10 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:03:10 +0900
+Started GET "/users/auth/facebook/callback?code=AQBgeL8vX2GOcFVyaNQqD3CTlmtZL8myvTyGNCIlmpJPy3cK-2mez7z3GWu1MInvXJ26-j-7Ioy0rNnONhQ4fQw27Ki_1q710xJNxSZIaVqcVKfHf9ydURznMqzzRWGhzQi3xlYJSCelJbFEC4JUWkjIMF57Bs1RA5S1hm7AdHIrgGyyAOz9o_yXeQqCTV__aVthUE2gg7qARPSj2nGDE_J8epzC8ZTv6qbgHKyNPLuSGZFp8-shMj3aWg3CYHbLz4gryvR5DV-YcHg6uh4qS4YSjYdbzIhZ6sRSdk4nvBXoA4Nzbn2PkQTTuoLWcMDdBGkZqi66ZAeNpu4BXzEwDrYz&state=0daf24337b77e66308f9db1f45c7154a3754c352285af052" for ::1 at 2017-03-17 14:03:11 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQBgeL8vX2GOcFVyaNQqD3CTlmtZL8myvTyGNCIlmpJPy3cK-2mez7z3GWu1MInvXJ26-j-7Ioy0rNnONhQ4fQw27Ki_1q710xJNxSZIaVqcVKfHf9ydURznMqzzRWGhzQi3xlYJSCelJbFEC4JUWkjIMF57Bs1RA5S1hm7AdHIrgGyyAOz9o_yXeQqCTV__aVthUE2gg7qARPSj2nGDE_J8epzC8ZTv6qbgHKyNPLuSGZFp8-shMj3aWg3CYHbLz4gryvR5DV-YcHg6uh4qS4YSjYdbzIhZ6sRSdk4nvBXoA4Nzbn2PkQTTuoLWcMDdBGkZqi66ZAeNpu4BXzEwDrYz", "state"=>"0daf24337b77e66308f9db1f45c7154a3754c352285af052"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 152ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:03:11 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.1ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.6ms)
+  Rendered devise/shared/_links.html.erb (1.6ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (13.7ms)
+Completed 200 OK in 101ms (Views: 100.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:03:13 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.3ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (9.4ms)
+Completed 200 OK in 173ms (Views: 170.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/users/sign_in" for ::1 at 2017-03-17 14:03:21 +0900
+Processing by Devise::SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"RE8Aw65GXSviyf8dOeFMisi6FE8K9ODw0GjydntRnRpVxV1JEF/3UvMNrZC1/T2YWUR0Er1wIS23k+8k6qSauw==", "user"=>{"email"=>"syunyo1028@yahoo.co.jp", "password"=>"[FILTERED]", "remember_me"=>"0"}, "commit"=>"Log in"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.7ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = ?, "last_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["current_sign_in_at", 2017-03-17 05:03:21 UTC], ["last_sign_in_at", 2017-03-16 14:14:04 UTC], ["sign_in_count", 5], ["updated_at", 2017-03-17 05:03:21 UTC], ["id", 1]]
+  [1m[35m (0.9ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 185ms (ActiveRecord: 2.1ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:03:21 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.6ms)
+  Rendered pages/index.html.erb within layouts/application (6.8ms)
+Completed 200 OK in 112ms (Views: 108.1ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-17 14:03:30 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"PTUqNxwg7xXM3a/rIEZHbX07/HUWR0sGcKvRCnejH0i7xIDoOPQ+zC39vIM214xYuSdHrBc7RkRVXtQi/mCCSA=="}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 17ms (ActiveRecord: 0.7ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:03:30 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered pages/index.html.erb within layouts/application (5.0ms)
+Completed 200 OK in 113ms (Views: 109.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:03:35 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.5ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (70.0ms)
+Completed 200 OK in 172ms (Views: 170.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:03:37 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:03:37 +0900
+Started GET "/users/auth/facebook/callback?code=AQAxedFBp9QVfrvLA3ZEW9lVkkekCUT-MuETrw59aBlzZ_b_gemvY5KHn_2mF0rSXS5bjPsH3oJI1pBqCKeX61hVPXgNxeLxi1mNqBk93ohdLXbLRsIh1uNv8io2GEUjHyCbUibjsdrnFxywOweUqqtvQwmDw8kH-jnIU_3Jjy0crQVcTZGg6aM2cVNIHtWD73XcSy7lgy3wpIP0E1ulDnDMPg4S1hZMsoA9wdxAY2oGuZQCKLby4przmxDM-2boXYeX-Pxt0bZXt712irD8DphD0NPOL4RfdZ1ABmrZQHYB7k5GcdhkXjPeWYSW7gXx22Agt4qGt8QXvTzD_tpQ7148&state=ea8c7442c433f906f6fb6d824019275be3218966de64d50a" for ::1 at 2017-03-17 14:03:38 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAxedFBp9QVfrvLA3ZEW9lVkkekCUT-MuETrw59aBlzZ_b_gemvY5KHn_2mF0rSXS5bjPsH3oJI1pBqCKeX61hVPXgNxeLxi1mNqBk93ohdLXbLRsIh1uNv8io2GEUjHyCbUibjsdrnFxywOweUqqtvQwmDw8kH-jnIU_3Jjy0crQVcTZGg6aM2cVNIHtWD73XcSy7lgy3wpIP0E1ulDnDMPg4S1hZMsoA9wdxAY2oGuZQCKLby4przmxDM-2boXYeX-Pxt0bZXt712irD8DphD0NPOL4RfdZ1ABmrZQHYB7k5GcdhkXjPeWYSW7gXx22Agt4qGt8QXvTzD_tpQ7148", "state"=>"ea8c7442c433f906f6fb6d824019275be3218966de64d50a"}
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.2ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.2ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 163ms (ActiveRecord: 0.8ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:03:38 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.4ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (15.7ms)
+Completed 200 OK in 130ms (Views: 129.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:09:28 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.8ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.4ms)
+  Rendered devise/shared/_links.html.erb (1.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (11.2ms)
+Completed 200 OK in 97ms (Views: 86.5ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:09:30 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:09:31 +0900
+Started GET "/users/auth/facebook/callback?code=AQCYEB8KzyJIglwtHBu6UXW7Kc_nTWi0ustdMA8Xw4cGX0E1i19T4YNb-5lJc8UV0IfI-j7jcLkxxHWXOe3KkwL7LX3pAicXQheuT1SfoSQStAYLon0kuVXtzO4kqgQ-UO94r0ILvI0oSoqclEFpkA8YHfr-P7udG5dB-aI1j1HY6u9fjszfsKQZ-r21MHli7MjB34JsTOJ7X8AeTrTixQbKwtsZsxXDhzWIMXklXu_mk0cQADzRSeve9hlTxrcp_mlccQBVnNSGUDj57rJaIpIllPcVL3Bah4H2kg4k2ig5XNWRT2oqVtx3LTXG2h5lmKdeXm3Z3D7OxKxn2f1FvhvT&state=4ce444960d3f1add515b1b08345d00a070afdc92e8abbf86" for ::1 at 2017-03-17 14:09:31 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCYEB8KzyJIglwtHBu6UXW7Kc_nTWi0ustdMA8Xw4cGX0E1i19T4YNb-5lJc8UV0IfI-j7jcLkxxHWXOe3KkwL7LX3pAicXQheuT1SfoSQStAYLon0kuVXtzO4kqgQ-UO94r0ILvI0oSoqclEFpkA8YHfr-P7udG5dB-aI1j1HY6u9fjszfsKQZ-r21MHli7MjB34JsTOJ7X8AeTrTixQbKwtsZsxXDhzWIMXklXu_mk0cQADzRSeve9hlTxrcp_mlccQBVnNSGUDj57rJaIpIllPcVL3Bah4H2kg4k2ig5XNWRT2oqVtx3LTXG2h5lmKdeXm3Z3D7OxKxn2f1FvhvT", "state"=>"4ce444960d3f1add515b1b08345d00a070afdc92e8abbf86"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.1ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+Redirected to http://localhost:3000/users/sign_up
+Completed 302 Found in 145ms (ActiveRecord: 0.6ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:09:32 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.0ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (15.0ms)
+Completed 200 OK in 134ms (Views: 133.3ms | ActiveRecord: 0.0ms)
+
+
+  [1m[36mActiveRecord::SchemaMigration Load (0.2ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+  [1m[36mActiveRecord::SchemaMigration Load (0.0ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", :environment]]
+DEPRECATION WARNING: Passing #original_exception is deprecated and has no effect. Exceptions will automatically capture the original exception. (called from load at /Users/syunyo/.rbenv/versions/2.3.0/bin/rake:23)
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "provider" varchar, "uid" varchar, "image" varchar, "name" varchar)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mselect sqlite_version(*)[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[35m (0.8ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.8ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (20170316173450)[0m
+  [1m[35m (0.8ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES
+(20170316111920),
+(20170316172722);
+
+[0m
+  [1m[35m (1.6ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.2ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", 2017-03-17 05:18:43 UTC], ["updated_at", 2017-03-17 05:18:43 UTC]]
+  [1m[35m (1.3ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (2.5ms)[0m  [1m[35mCREATE TABLE "users" ("id" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "email" varchar DEFAULT '' NOT NULL, "encrypted_password" varchar DEFAULT '' NOT NULL, "reset_password_token" varchar, "reset_password_sent_at" datetime, "remember_created_at" datetime, "sign_in_count" integer DEFAULT 0 NOT NULL, "current_sign_in_at" datetime, "last_sign_in_at" datetime, "current_sign_in_ip" varchar, "last_sign_in_ip" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, "provider" varchar, "uid" varchar, "image" varchar, "name" varchar)[0m
+  [1m[35m (0.1ms)[0m  [1m[34mselect sqlite_version(*)[0m
+  [1m[35m (1.2ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_email" ON "users" ("email")[0m
+  [1m[35m (0.1ms)[0m  [1m[34m            SELECT sql
+            FROM sqlite_master
+            WHERE name='index_users_on_email' AND type='index'
+            UNION ALL
+            SELECT sql
+            FROM sqlite_temp_master
+            WHERE name='index_users_on_email' AND type='index'
+[0m
+  [1m[35m (2.3ms)[0m  [1m[35mCREATE UNIQUE INDEX "index_users_on_reset_password_token" ON "users" ("reset_password_token")[0m
+  [1m[35m (0.9ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  [1m[35m (0.2ms)[0m  [1m[34mSELECT version FROM "schema_migrations"[0m
+  [1m[35m (0.7ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES (20170316173450)[0m
+  [1m[35m (0.9ms)[0m  [1m[32mINSERT INTO "schema_migrations" (version) VALUES
+(20170316111920),
+(20170316172722);
+
+[0m
+  [1m[35m (1.5ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.3ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", 2017-03-17 05:18:43 UTC], ["updated_at", 2017-03-17 05:18:43 UTC]]
+  [1m[35m (1.6ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::InternalMetadata Load (0.1ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", :environment], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Started GET "/" for ::1 at 2017-03-17 14:19:14 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.1ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (12.6ms)
+  Rendered pages/index.html.erb within layouts/application (20.8ms)
+Completed 200 OK in 533ms (Views: 517.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:19:17 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.0ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (52.9ms)
+Completed 200 OK in 209ms (Views: 150.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:19:20 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:19:20 +0900
+Started GET "/users/auth/facebook/callback?code=AQAwWDKrXvqDjiGXwGqKraytG17w6nZJ1fLPFyx7gx9dRa6DAwz6XRD6xQxnyzDiOqpihyP00RhYJtWsMdVWwgZqslbkuyOMDVcaSQEF_TGwtwW4plBHVCF3C5MTbY88QGtixiZ64v8crvZSe5gPYRZu6kgJXcyuuJdKLrGHQEzZBZSYH0_LeblCm4FWceJXSXFVE0dyimdKCxv5hTj7YKbKaYGPaazs5irY1wqCoSTdr3i_YzujZ5alRIw5ASS1XIvGaIhzu8_BGKcN1RrYiHL9FTGqG7flvpaM7PgUb91pMA5sEpdXQsCDzv97YhK20Q6wsgVM_q0FgORepWzVMVtO&state=dc0bdc1ea262920bf20be38303a103bc272352cd5bcb202b" for ::1 at 2017-03-17 14:19:20 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQAwWDKrXvqDjiGXwGqKraytG17w6nZJ1fLPFyx7gx9dRa6DAwz6XRD6xQxnyzDiOqpihyP00RhYJtWsMdVWwgZqslbkuyOMDVcaSQEF_TGwtwW4plBHVCF3C5MTbY88QGtixiZ64v8crvZSe5gPYRZu6kgJXcyuuJdKLrGHQEzZBZSYH0_LeblCm4FWceJXSXFVE0dyimdKCxv5hTj7YKbKaYGPaazs5irY1wqCoSTdr3i_YzujZ5alRIw5ASS1XIvGaIhzu8_BGKcN1RrYiHL9FTGqG7flvpaM7PgUb91pMA5sEpdXQsCDzv97YhK20Q6wsgVM_q0FgORepWzVMVtO", "state"=>"dc0bdc1ea262920bf20be38303a103bc272352cd5bcb202b"}
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mUser Exists (0.4ms)[0m  [1m[34mSELECT  1 AS one FROM "users" WHERE "users"."email" = ? LIMIT ?[0m  [["email", "syunyo1028@yahoo.co.jp"], ["LIMIT", 1]]
+  [1m[35mSQL (0.5ms)[0m  [1m[32mINSERT INTO "users" ("email", "encrypted_password", "created_at", "updated_at", "provider", "uid", "image", "name") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["email", "syunyo1028@yahoo.co.jp"], ["encrypted_password", "$2a$11$xEJVD84NVnD4uvEDwC.yeebR6oG00T6mkBxIDv7A9RYQ34drS2yhW"], ["created_at", 2017-03-17 05:19:23 UTC], ["updated_at", 2017-03-17 05:19:23 UTC], ["provider", "facebook"], ["uid", "1880553698886163"], ["image", "http://graph.facebook.com/v2.6/1880553698886163/picture"], ["name", "Kawamoto Syunyo"]]
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "users" SET "sign_in_count" = ?, "current_sign_in_at" = ?, "last_sign_in_at" = ?, "current_sign_in_ip" = ?, "last_sign_in_ip" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["sign_in_count", 1], ["current_sign_in_at", 2017-03-17 05:19:23 UTC], ["last_sign_in_at", 2017-03-17 05:19:23 UTC], ["current_sign_in_ip", "::1"], ["last_sign_in_ip", "::1"], ["updated_at", 2017-03-17 05:19:23 UTC], ["id", 1]]
+  [1m[35m (1.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 199ms (ActiveRecord: 3.9ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:19:23 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.3ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (3.3ms)
+  Rendered pages/index.html.erb within layouts/application (7.7ms)
+Completed 200 OK in 135ms (Views: 130.6ms | ActiveRecord: 0.3ms)
+
+
+Started DELETE "/users/sign_out" for ::1 at 2017-03-17 14:22:22 +0900
+Processing by Devise::SessionsController#destroy as HTML
+  Parameters: {"authenticity_token"=>"heOuMH8qpW6PRo28mIgr2V5Ox04RO0LBOzuo0Gqi/cB9kBz8yZcjFiFYo3QEVK+EM9H5owfvY2koqNMhTZolIA=="}
+  [1m[36mUser Load (0.7ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  [1m[35m (0.1ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 22ms (ActiveRecord: 0.9ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:22:22 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.3ms)
+  Rendered pages/index.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 103ms (Views: 99.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:25:36 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.0ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.2ms)
+  Rendered devise/shared/_links.html.erb (2.7ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (75.0ms)
+Completed 200 OK in 3265ms (Views: 3263.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:25:40 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered partial/_deviseErrorMsg.html.erb (1.1ms)
+  Rendered devise/shared/_links.html.erb (1.9ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (18.0ms)
+Completed 200 OK in 170ms (Views: 167.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:26:54 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.2ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (2.3ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (17.7ms)
+Completed 200 OK in 139ms (Views: 134.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:27:01 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered devise/shared/_links.html.erb (29.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (73.4ms)
+Completed 200 OK in 222ms (Views: 219.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:27:03 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.5ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (2.1ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (50.4ms)
+Completed 200 OK in 373ms (Views: 371.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_up" for ::1 at 2017-03-17 14:27:44 +0900
+Processing by Devise::RegistrationsController#new as HTML
+  Rendering devise/registrations/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered partial/_deviseErrorMsg.html.erb (0.8ms)
+  Rendered devise/shared/_links.html.erb (4.8ms)
+  Rendered devise/registrations/new.html.erb within layouts/application (24.7ms)
+Completed 200 OK in 175ms (Views: 173.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:27:48 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.4ms)
+  Rendered devise/shared/_links.html.erb (2.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (18.4ms)
+Completed 200 OK in 259ms (Views: 256.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:31:46 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (3.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (8.3ms)
+Completed 500 Internal Server Error in 93ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:26: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...nd=( if current_user.provider );@output_buffer.safe_append='
+...                               ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:30: syntax error, unexpected keyword_else, expecting ')'
+'.freeze;             else 
+                          ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;             end 
+                         ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:39: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:47: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/partial/_navbar.html.erb:26: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+app/views/partial/_navbar.html.erb:30: syntax error, unexpected keyword_else, expecting ')'
+app/views/partial/_navbar.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/partial/_navbar.html.erb:39: syntax error, unexpected keyword_end, expecting ')'
+app/views/partial/_navbar.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/partial/_navbar.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+app/views/devise/sessions/new.html.erb:1:in `_app_views_devise_sessions_new_html_erb___1152396126891005122_70255358121280'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (6.3ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (3.0ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (1.1ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (90.6ms)
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:32:22 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.4ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (5.0ms)
+Completed 500 Internal Server Error in 21ms (ActiveRecord: 0.0ms)
+
+
+  
+SyntaxError (/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:26: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+...d=( if current_user.provider? );@output_buffer.safe_append='
+...                               ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:30: syntax error, unexpected keyword_else, expecting ')'
+'.freeze;             else 
+                          ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;             end 
+                         ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:39: syntax error, unexpected keyword_end, expecting ')'
+'.freeze;         end 
+                     ^
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+/Users/syunyo/Desktop/MyDev/web_dev/PetsHuggy/app/views/partial/_navbar.html.erb:47: syntax error, unexpected keyword_end, expecting ')'):
+  
+app/views/partial/_navbar.html.erb:26: syntax error, unexpected ')', expecting keyword_then or ';' or '\n'
+app/views/partial/_navbar.html.erb:30: syntax error, unexpected keyword_else, expecting ')'
+app/views/partial/_navbar.html.erb:32: syntax error, unexpected keyword_end, expecting ')'
+app/views/partial/_navbar.html.erb:39: syntax error, unexpected keyword_end, expecting ')'
+app/views/partial/_navbar.html.erb:45: syntax error, unexpected keyword_ensure, expecting ')'
+app/views/partial/_navbar.html.erb:47: syntax error, unexpected keyword_end, expecting ')'
+app/views/devise/sessions/new.html.erb:1:in `_app_views_devise_sessions_new_html_erb___1152396126891005122_70255328597160'
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_source.html.erb (3.6ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_trace.html.erb (1.7ms)
+  Rendering /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb (0.9ms)
+  Rendered /Users/syunyo/.rbenv/versions/2.3.0/lib/ruby/gems/2.3.0/gems/actionpack-5.0.2/lib/action_dispatch/middleware/templates/rescues/diagnostics.html.erb within rescues/layout (72.3ms)
+Started GET "/users/sign_in" for ::1 at 2017-03-17 14:32:46 +0900
+Processing by Devise::SessionsController#new as HTML
+  Rendering devise/sessions/new.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (0.9ms)
+  Rendered devise/shared/_links.html.erb (1.2ms)
+  Rendered devise/sessions/new.html.erb within layouts/application (8.6ms)
+Completed 200 OK in 112ms (Views: 109.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:32:48 +0900
+Started GET "/users/auth/facebook" for ::1 at 2017-03-17 14:32:49 +0900
+Started GET "/users/auth/facebook/callback?code=AQCDF7kLu6WjJBCoEwbpm5JVAoWKhwlFDjBRuhvTY2oABw3JWKum9EPyeqZBQ4Z15o5T_2u6PePV00f67eLdUHPw4fyMWbiV1M2C-lM1At5Ts9SWJgni71M1IPYMIaFlCIKu90-YtITWsSJuPq1HG2r_gfBUzxAAv6V93RVLqSSkH2K0qR9vZbdC08myt2hGIBPPn6362-4ZU2SS5kUrt6tEa3xhaHJvxrR3oCct7OMesATAGrR2dGGU01jmL_BaiXhlP5H8lpNA-6GMqphAMIsoPKY58bMFoSHOKz-16xgihvQU-7sSHulQK7cOLtyknZrbTA7G8ERbN9AQwKTdk9dS&state=a830ec471a956c110407946336c048e5bb50ce0350797e9f" for ::1 at 2017-03-17 14:32:49 +0900
+Processing by Users::OmniauthCallbacksController#facebook as HTML
+  Parameters: {"code"=>"AQCDF7kLu6WjJBCoEwbpm5JVAoWKhwlFDjBRuhvTY2oABw3JWKum9EPyeqZBQ4Z15o5T_2u6PePV00f67eLdUHPw4fyMWbiV1M2C-lM1At5Ts9SWJgni71M1IPYMIaFlCIKu90-YtITWsSJuPq1HG2r_gfBUzxAAv6V93RVLqSSkH2K0qR9vZbdC08myt2hGIBPPn6362-4ZU2SS5kUrt6tEa3xhaHJvxrR3oCct7OMesATAGrR2dGGU01jmL_BaiXhlP5H8lpNA-6GMqphAMIsoPKY58bMFoSHOKz-16xgihvQU-7sSHulQK7cOLtyknZrbTA7G8ERbN9AQwKTdk9dS", "state"=>"a830ec471a956c110407946336c048e5bb50ce0350797e9f"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."provider" = ? AND "users"."uid" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["provider", "facebook"], ["uid", "1880553698886163"], ["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[35mSQL (0.4ms)[0m  [1m[33mUPDATE "users" SET "current_sign_in_at" = ?, "sign_in_count" = ?, "updated_at" = ? WHERE "users"."id" = ?[0m  [["current_sign_in_at", 2017-03-17 05:32:50 UTC], ["sign_in_count", 2], ["updated_at", 2017-03-17 05:32:50 UTC], ["id", 1]]
+  [1m[35m (2.6ms)[0m  [1m[36mcommit transaction[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 9ms (ActiveRecord: 3.5ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:32:50 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.5ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (3.2ms)
+  Rendered pages/index.html.erb within layouts/application (7.1ms)
+Completed 200 OK in 123ms (Views: 117.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:35:39 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.9ms)
+  Rendered pages/index.html.erb within layouts/application (6.4ms)
+Completed 200 OK in 3244ms (Views: 3238.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for ::1 at 2017-03-17 14:42:24 +0900
+Processing by PagesController#index as HTML
+  Rendering pages/index.html.erb within layouts/application
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  Rendered partial/_navbar.html.erb (2.9ms)
+  Rendered pages/index.html.erb within layouts/application (6.7ms)
+Completed 200 OK in 93ms (Views: 88.3ms | ActiveRecord: 0.2ms)
+
+
