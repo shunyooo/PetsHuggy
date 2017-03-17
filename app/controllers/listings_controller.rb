@@ -18,17 +18,22 @@ class ListingsController < ApplicationController
 
     #セーブできたら
     if @listing.save
-      redirect_to edit_listing_path(@listing), notice:"リスティングを作成・保存をしました"
+      redirect_to manage_listing_basics_path(@listing), notice:"リスティングを作成・保存をしました"
     else
       redirect_to edit_listing_path, notice:"リスティングを作成・保存できませんでした"
     end
-    
+
   end
 
   def edit
   end
 
   def update
+  end
+
+  def basics
+    # http://localhost:3000/manage-listing/2/basics の「2」にあたる部分
+    @listing = Listing.find(params[:id])
   end
 
   private
