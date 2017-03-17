@@ -9,7 +9,8 @@ class User < ApplicationRecord
     user.email = auth.info.email
     user.password = Devise.friendly_token[0,20]
     user.name = auth.info.name   # assuming the user model has a name
-    user.image = auth.info.image # assuming the user model has an image
+    #大きな画像を撮るためにURLを指定。facebookユーザのidを指定する必要があるので、上記のuidから。
+    user.image = "http://graph.facebook.com/#{auth.uid}/picture?type=large" # assuming the user model has an image
   end
 end
 end
