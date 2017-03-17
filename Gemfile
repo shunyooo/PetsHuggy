@@ -19,6 +19,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 gem 'devise'
 gem 'toastr-rails'
 gem 'omniauth-facebook'
+gem "paperclip", "~> 5.0.0"
 
 
 group :development, :test do

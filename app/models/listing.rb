@@ -1,5 +1,6 @@
 class Listing < ApplicationRecord
   belongs_to :user
+  has_many :photos
 
   #必須項目
   validates :home_type, presence: true
