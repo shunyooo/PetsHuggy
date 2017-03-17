@@ -31,6 +31,8 @@ class ListingsController < ApplicationController
   def edit
   end
 
+  # 更新ボタン(updateメソッド)が押された時、呼び出される。
+  # 更新ボタンでは、@listingの値から、自動的にメソッドを判定しているらしい。
   def update
     if @listing.update(listing_params)
       redirect_to :back, notice:"更新できました"
