@@ -14,13 +14,14 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-
+      <li><%= link_to "シッターになる", new_listing_path %></li>
+        <!-- ログインしていない時 -->
         <% if (!user_signed_in?) %>
-          <li><a href="#">シッターになる</a></li>
           <li><a href="#">利用の流れ</a></li>
           <li><%= link_to "アカウント作成", new_user_registration_path %></li>
           <li><%= link_to "ログイン", new_user_session_path %></li>
         <% else %>
+        <!-- ログインしている時 -->          
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
             <% if current_user.provider %>
