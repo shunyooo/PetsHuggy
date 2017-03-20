@@ -7445,3 +7445,40 @@ Processing by ListingsController#description as HTML
 Completed 200 OK in 174ms (Views: 159.8ms | ActiveRecord: 0.5ms)
 
 
+Started GET "/manage-listing/5/description" for ::1 at 2017-03-20 16:20:13 +0900
+  [1m[36mActiveRecord::SchemaMigration Load (0.5ms)[0m  [1m[34mSELECT "schema_migrations".* FROM "schema_migrations"[0m
+Processing by ListingsController#description as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mListing Load (0.5ms)[0m  [1m[34mSELECT  "listings".* FROM "listings" WHERE "listings"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering listings/description.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (6.0ms)
+  Rendered partial/_verticalnavbar.html.erb (1.4ms)
+  Rendered listings/description.html.erb within layouts/application (32.0ms)
+Completed 200 OK in 674ms (Views: 620.1ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/manage-listing/5/address" for ::1 at 2017-03-20 16:20:16 +0900
+Processing by ListingsController#address as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mUser Load (0.2ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mListing Load (0.1ms)[0m  [1m[34mSELECT  "listings".* FROM "listings" WHERE "listings"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering listings/address.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (1.6ms)
+  Rendered partial/_verticalnavbar.html.erb (3.2ms)
+  Rendered listings/address.html.erb within layouts/application (13.5ms)
+Completed 200 OK in 196ms (Views: 180.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/manage-listing/5/description" for ::1 at 2017-03-20 16:20:17 +0900
+Processing by ListingsController#description as HTML
+  Parameters: {"id"=>"5"}
+  [1m[36mUser Load (0.4ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? ORDER BY "users"."id" ASC LIMIT ?[0m  [["id", 2], ["LIMIT", 1]]
+  [1m[36mListing Load (0.1ms)[0m  [1m[34mSELECT  "listings".* FROM "listings" WHERE "listings"."id" = ? LIMIT ?[0m  [["id", 5], ["LIMIT", 1]]
+  Rendering listings/description.html.erb within layouts/application
+  Rendered partial/_navbar.html.erb (2.5ms)
+  Rendered partial/_verticalnavbar.html.erb (2.9ms)
+  Rendered listings/description.html.erb within layouts/application (59.7ms)
+Completed 200 OK in 218ms (Views: 208.4ms | ActiveRecord: 0.5ms)
+
+
