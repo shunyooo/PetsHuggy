@@ -18,10 +18,10 @@ development:
 # Do not set this db to the same as development or production.
 test:
   <<: *default
-  adapter: pg
+  adapter: postgresql
   database: db/test.pg
 
 production:
   <<: *default
-  adapter: pg
+  adapter: postgresql
   database: db/production.pg
